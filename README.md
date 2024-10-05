@@ -2,7 +2,7 @@
 ## LEAFLET WEB MAP
 ### IVY D. KWASHIE
 A Map showing real time weather radar and alerts from the National Weather Service
- <https://idkwashie.github.io/LeafletDemo/>
+ <https://github.com/idkwashie/LeafletDemo/tree/main/weather>
 
 Another Map showing earthquakes from USGS
 <https://idkwashie.github.io/LeafletDemo/>
